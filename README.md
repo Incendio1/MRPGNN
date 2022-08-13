@@ -1,1 +1,1 @@
-# CRDGNN: Continuous Random Diffusion Graph Neural Networks
+# TRDGNN: Two-Hop Random Diffusion Graph Neural Networks
