@@ -1,4 +1,4 @@
-# TRDGNN: Two-Hop Random Diffusion Graph Neural Networks
+# MRPGNN: A Decoupled Graph Neural Network Based on Multi-Hop Random Propagation
 ## Usage Example
 ### Cora (homophilic graph)
 ```javascript
